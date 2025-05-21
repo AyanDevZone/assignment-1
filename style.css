@@ -6,6 +6,11 @@
 body {
     background-color: antiquewhite;
 }
+    h1 {
+        font-size: 50px;
+        padding-top: 10px;
+        text-align: center;
+    }
 
 .boxes {
     border: 5px solid #000000;
@@ -27,11 +32,6 @@ i {
     padding-top: 20px;
 }
 
-    h1 {
-        font-size: 50px;
-        padding-top: 10px;
-        text-align: center;
+
       
-        outline: #ff2020 50px thin;
-    }
 
