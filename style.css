@@ -1,0 +1,37 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.boxes {
+    border: 5px solid #000000;
+    height: 80px;
+    width: 100px;
+    margin: 20px;
+    display: inline-block;
+    /* padding: 10px; */
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+
+i {
+    font-size: 60px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+    h1 {
+        font-size: 50px;
+        padding-top: 10px;
+        text-align: center;
+      
+        outline: #ff2020 50px thin;
+    }
+
